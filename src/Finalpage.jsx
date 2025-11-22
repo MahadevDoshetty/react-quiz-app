@@ -7,7 +7,7 @@ const Finalpage = () => {
   return (
     <div>
       <h1>Quiz Completed</h1>
-      <h2>You have scored {score}</h2>
+      <h2>Your score is :  {score}</h2>
     </div>
   );
 };
